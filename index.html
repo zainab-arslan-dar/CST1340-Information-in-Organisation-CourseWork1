@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Ink&Ideas | Home</title>
+    <link rel="stylesheet" href="index_styles.css">
+</head>
+<body>
+    <div id="top"></div>
+    <div class="topnav">
+        <a href="index.html">Home</a>
+        <div class="dropdown">
+            <a href="book.xml" class="dropbtn">Books</a>
+            <div class="dropdown-content">
+                <a href="fiction.html">Fiction</a>
+                <a href="non_fiction.html">Non-Fiction</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Logo Section -->
+    <img src="bookshop_logo.jpg" alt="logo" class="logo">
+
+    <!-- About Section -->
+    <h2>About Us</h2>
+    <p class="about-text">
+        Welcome to <strong>Ink&Ideas</strong>, your go-to destination for literary inspiration! Whether you're a passionate reader, 
+        a curious explorer of knowledge, or someone searching for the perfect gift, our bookstore offers a carefully curated 
+        selection of fiction and non-fiction titles.
+    </p>
+
+    <!-- Book Genre List --> 
+    <h2>Book Genres</h2>
+    <div class="genre-list-container">
+        <ul class="genre-list">
+            <li><a href="fiction.html">Young Adult</a></li>
+            <li><a href="fiction.html">Horror/Thriller</a></li>
+            <li><a href="non_fiction.html">Travel Literature</a></li>
+            <li><a href="non_fiction.html">Cookbook</a></li>
+        </ul>
+    </div>
+
+    <!-- Best Selling Books -->
+    <hr>
+    <h2>Our Best-Selling Books</h2>
+    <div class="genres-container">
+        <div class="genre">
+            <img src="HarryPotterandThePhilosphersStone.jpg" alt="Harry Potter and The Philosophers Stone">
+            <h4>Price: 150.00 AED</h4>
+            <p>Harry Potter</p>
+        </div>
+        <div class="genre">
+            <img src="LittleWomen.jpg" alt="Little Women">
+            <h4>Price: 140.00 AED</h4>
+            <p>Little Women</p>
+        </div>
+        <div class="genre">
+            <img src="Dracula.jpg" alt="Dracula">
+            <h4>Price: 140.00 AED</h4>
+            <p>Dracula</p>
+        </div>
+        <div class="genre">
+            <img src="healthnut.jpg" alt="Health Nut">
+            <h4>Price: 140.00 AED</h4>
+            <p>Health Nut</p>
+        </div>        
+        <div class="genre">
+            <img src="Jaws.jpg" alt="Jaws">
+            <h4>Price: 120.00 AED</h4>
+            <p>Jaws</p>
+        </div>
+        <div class="genre">
+            <img src="RickStevesSwitzerland.jpg" alt="Rick Steves Switzerland">
+            <h4>Price: 120.00 AED</h4>
+            <p>Switzerland</p>
+        </div>
+    </div>
+
+    <!-- Opening Hours -->
+    <hr>
+    <h2>Opening Hours</h2>
+    <table>
+        <tr>
+            <th>Day</th>
+            <th>Hours</th>
+        </tr>
+        <tr>
+            <td>Monday - Friday</td>
+            <td>8:30 AM - 8:30 PM</td>
+        </tr>
+        <tr>
+            <td>Saturday - Sunday</td>
+            <td>8:30 AM - 4:00 PM</td>
+        </tr>
+    </table>
+
+    <a href="#top"><button class="button">Back to Top</button></a>
+
+    <!-- Contact Form -->
+    <hr>
+    <h2>Contact Us</h2>
+    <form action="response.html" method="post">
+        <label for="fullname"><strong>Full Name:</strong></label><br>
+        <input type="text" id="fullname" name="fullname" placeholder="Enter your full name" required><br><br>
+
+        <label for="email"><strong>Email:</strong></label><br>
+        <input type="email" id="email" name="email" placeholder="Enter your email" required><br><br>
+
+        <label for="phone"><strong>Phone Number:</strong></label><br>
+        <input type="tel" id="phone" name="phone" placeholder="e.g. +971-50-1234567" required><br><br>
+
+        <label for="dob"><strong>Date of Birth:</strong></label><br>
+        <input type="date" id="dob" name="dob" required><br><br>
+
+        <label><strong>Gender:</strong></label><br>
+        <input type="radio" id="male" name="gender" value="male" required>
+        <label for="male">Male</label><br>
+
+        <input type="radio" id="female" name="gender" value="female">
+        <label for="female">Female</label><br>
+
+        <input type="submit" value="Submit" class="button">
+    </form>
+
+</body>
+</html>

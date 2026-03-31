@@ -1,0 +1,8 @@
+<!ELEMENT bookshop (book+)>
+<!ELEMENT book (title, author, price, genre, subgenre, rating)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT genre (#PCDATA)>
+<!ELEMENT subgenre (#PCDATA)>
+<!ELEMENT rating (#PCDATA)>

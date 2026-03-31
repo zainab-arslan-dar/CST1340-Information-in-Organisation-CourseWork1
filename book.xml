@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE books SYSTEM "book.dtd">
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+<bookshop>
+    <book>
+        <title>Shatter Me</title>
+        <author>Tahereh Mafi</author>
+        <price>100.00</price>
+        <genre>Fiction</genre>
+        <subgenre>Young Adult</subgenre>
+        <rating>3.84</rating>
+    </book>
+    <book>
+        <title>Believe Me</title>
+        <author>Tahereh Mafi</author>
+        <price>120.00</price>
+        <genre>Fiction</genre>
+        <subgenre>Young Adult</subgenre>
+        <rating>4.13</rating>
+    </book>
+    <book>
+        <title>Defy Me</title>
+        <author>Tahereh Mafi</author>
+        <price>80.00</price>
+        <genre>Fiction</genre>
+        <subgenre>Young Adult</subgenre>
+        <rating>4.27</rating>
+    </book>
+    <book>
+        <title>Ignite Me</title>
+        <author>Tahereh Mafi</author>
+        <price>150.00</price>
+        <genre>Fiction</genre>
+        <subgenre>Young Adult</subgenre>
+        <rating>4.45</rating>
+    </book>
+    <book>
+        <title>Watch Me</title>
+        <author>Tahereh Mafi</author>
+        <price>200.00</price>
+        <genre>Fiction</genre>
+        <subgenre>Young Adult</subgenre>
+        <rating>4.54</rating>
+    </book>
+    <book>
+        <title>The Judgement of Yoyo Gold</title>
+        <author>Isaac Blum</author>
+        <price>140.00</price>
+        <genre>Fiction</genre>
+        <subgenre>Young Adult</subgenre>
+        <rating>4.20</rating>
+    </book>
+    <book>
+        <title>Little Women</title>
+        <author>Louise May Alcott</author>
+        <price>100.00</price>
+        <genre>Fiction</genre>
+        <subgenre>Young Adult</subgenre>
+        <rating>4.16</rating>
+    </book>
+    <book>
+        <title>Turtles All The Way Down</title>
+        <author>John Green</author>
+        <price>120.00</price>
+        <genre>Fiction</genre>
+        <subgenre>Young Adult</subgenre>
+        <rating>3.88</rating>
+    </book>
+    <book>
+        <title>Twilight</title>
+        <author>Stephenie Meyer</author>
+        <price>140.00</price>
+        <genre>Fiction</genre>
+        <subgenre>Young Adult</subgenre>
+        <rating>3.66</rating>
+    </book>
+    <book>
+        <title>Harry Potter and the Philosopher's Stone</title>
+        <author>J.K. Rowling</author>
+        <price>150.00</price>
+        <genre>Fiction</genre>
+        <subgenre>Young Adult</subgenre>
+        <rating>4.53</rating>
+    </book>
+    <book>
+        <title>Dracula</title>
+        <author>Bram Stoker</author>
+        <price>140.00</price>
+        <genre>Fiction</genre>
+        <subgenre>Horror/Thriller</subgenre>
+        <rating>4.02</rating>
+    </book>
+    <book>
+        <title>Jaws</title>
+        <author>Peter Benchley</author>
+        <price>120.00</price>
+        <genre>Fiction</genre>
+        <subgenre>Horror/Thriller</subgenre>
+        <rating>3.95</rating>
+    </book>
+    <book>
+        <title>IT</title>
+        <author>Stephen King</author>
+        <price>130.00</price>
+        <genre>Fiction</genre>
+        <subgenre>Horror/Thriller</subgenre>
+        <rating>4.24</rating>
+    </book>
+    <book>
+        <title>The Shining</title>
+        <author>Stephen King</author>
+        <price>110.00</price>
+        <genre>Fiction</genre>
+        <subgenre>Horror/Thriller</subgenre>
+        <rating>4.28</rating>
+    </book>
+    <book>
+        <title>The Silent Wife</title>
+        <author>Karin Slaughter</author>
+        <price>120.00</price>
+        <genre>Fiction</genre>
+        <subgenre>Horror/Thriller</subgenre>
+        <rating>4.23</rating>
+    </book>
+  <book>
+        <title>The Run</title>
+        <author>Stuart Woods</author>
+        <price>100.00</price>
+        <genre>Fiction</genre>
+        <subgenre>Horror/Thriller</subgenre>
+        <rating>3.96</rating>
+    </book>
+  <book>
+        <title>Pet Sematary</title>
+        <author>Karin Slaughter</author>
+        <price>120.00</price>
+        <genre>Fiction</genre>
+        <subgenre>Horror/Thriller</subgenre>
+        <rating>4.08</rating>
+    </book>
+  <book>
+        <title>The Exorcist</title>
+        <author>William Peter Blatty</author>
+        <price>90.00</price>
+        <genre>Fiction</genre>
+        <subgenre>Horror/Thriller</subgenre>
+        <rating>4.21</rating>
+    </book>
+  <book>
+        <title>Thread</title>
+        <author>Olivia Wilson</author>
+        <price>150.00</price>
+        <genre>Fiction</genre>
+        <subgenre>Horror/Thriller</subgenre>
+        <rating>3.15</rating>
+    </book>
+  <book>
+        <title>The Outsider</title>
+        <author>Stephen King</author>
+        <price>100.00</price>
+        <genre>Fiction</genre>
+        <subgenre>Horror/Thriller</subgenre>
+        <rating>4.01</rating>
+    </book>
+    <book>
+        <title>Switzerland</title>
+        <author>Rick Stevens</author>
+        <price>100.00</price>
+        <genre>Non-Fiction</genre>
+        <subgenre>Travel</subgenre>
+        <rating>3.48</rating>
+    </book>
+    <book>
+        <title>Abroad in Japan</title>
+        <author>Chris Broad</author>
+        <price>120.00</price>
+        <genre>Non-Fiction</genre>
+        <subgenre>Travel</subgenre>
+        <rating>4.14</rating>
+    </book>
+    <book>
+        <title>The Mountains are High</title>
+        <author>Alec Ash</author>
+        <price>80.00</price>
+        <genre>Non-Fiction</genre>
+        <subgenre>Travel</subgenre>
+        <rating>4.12</rating>
+    </book>
+    <book>
+        <title>Lands of Lost Borders</title>
+        <author>Kate Harris</author>
+        <price>150.00</price>
+        <genre>Non-Fiction</genre>
+        <subgenre>Travel</subgenre>
+        <rating>3.87</rating>
+    </book>
+    <book>
+        <title>Under the Tuscan Sun</title>
+        <author>Frances Mayes</author>
+        <price>140.00</price>
+        <genre>Non-Fiction</genre>
+        <subgenre>Travel</subgenre>
+        <rating>4.59</rating>
+    </book>
+    <book>
+        <title>Literary Landscapes</title>
+        <author>John Sutherland</author>
+        <price>130.00</price>
+        <genre>Non-Fiction</genre>
+        <subgenre>Travel</subgenre>
+        <rating>3.74</rating>
+    </book>
+    <book>
+        <title>Congo Journey</title>
+        <author>Redmond O'Hanlon</author>
+        <price>140.00</price>
+        <genre>Non-Fiction</genre>
+        <subgenre>Travel</subgenre>
+        <rating>4.01</rating>
+    </book>
+    <book>
+        <title>Explore Deeper</title>
+        <author>Shawn Micheals</author>
+        <price>100.00</price>
+        <genre>Non-Fiction</genre>
+        <subgenre>Travel</subgenre>
+        <rating>4.12</rating>
+    </book>
+    <book>
+        <title>Arabia Egypt India</title>
+        <author>Isabel Burton</author>
+        <price>150.00</price>
+        <genre>Non-Fiction</genre>
+        <subgenre>Travel</subgenre>
+        <rating>3.95</rating>
+    </book>
+    <book>
+        <title>New Jersey 2025 Official Travel Guide</title>
+        <author>Jamie Walton</author>
+        <price>140.00</price>
+        <genre>Non-Fiction</genre>
+        <subgenre>Travel</subgenre>
+        <rating>3.59</rating>
+    </book>
+    <book>
+        <title>Health Nut</title>
+        <author>Jess Damuk</author>
+        <price>100.00</price>
+        <genre>Non-Fiction</genre>
+        <subgenre>Cookbook</subgenre>
+        <rating>3.69</rating>
+    </book>
+    <book>
+        <title>Forgotten Skills of Cooking</title>
+        <author>Darina Allen</author>
+        <price>100.00</price>
+        <genre>Non-Fiction</genre>
+        <subgenre>Cookbook</subgenre>
+        <rating>3.12</rating>
+    </book>
+     <book>
+        <title>Sousvide Cookbook</title>
+        <author>Kara Hersey</author>
+        <price>150.00</price>
+        <genre>Non-Fiction</genre>
+        <subgenre>Cookbook</subgenre>
+        <rating>5.00</rating>
+    </book>
+    <book>
+        <title>Feast</title>
+        <author>Anissa Helou</author>
+        <price>100.00</price>
+        <genre>Non-Fiction</genre>
+        <subgenre>Cookbook</subgenre>
+        <rating>3.53</rating>
+    </book>
+    <book>
+        <title>RecipeTin Eats Dinner</title>
+        <author>Nagi Maehashi</author>
+        <price>150.00</price>
+        <genre>Non-Fiction</genre>
+        <subgenre>Cookbook</subgenre>
+        <rating>4.59</rating>
+    </book>
+    <book>
+        <title>Dakshin</title>
+        <author>Chandra Padmanabhan</author>
+        <price>100.00</price>
+        <genre>Non-Fiction</genre>
+        <subgenre>Cookbook</subgenre>
+        <rating>4.13</rating>
+    </book>
+    <book>
+        <title>My First Cook Book</title>
+        <author>David Atherton</author>
+        <price>120.00</price>
+        <genre>Non-Fiction</genre>
+        <subgenre>Cookbook</subgenre>
+        <rating>4.25</rating>
+    </book>
+     <book>
+        <title>The Everlasting Meal Cookbook</title>
+        <author>Tamar Adler</author>
+        <price>150.00</price>
+        <genre>Non-Fiction</genre>
+        <subgenre>Cookbook</subgenre>
+        <rating>4.12</rating>
+    </book>
+    <book>
+        <title>The New Cooking School Cookbook</title>
+        <author>Ashley Mickens</author>
+        <price>100.00</price>
+        <genre>Non-Fiction</genre>
+        <subgenre>Cookbook</subgenre>
+        <rating>4.82</rating>
+    </book>
+    <book>
+        <title>The No-Cook CookBook</title>
+        <author>DK</author>
+        <price>130.00</price>
+        <genre>Non-Fiction</genre>
+        <subgenre>Cookbook</subgenre>
+        <rating>4.13</rating>
+    </book>
+</bookshop>

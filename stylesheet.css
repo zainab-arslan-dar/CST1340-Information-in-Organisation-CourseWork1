@@ -1,0 +1,158 @@
+ <style>
+	
+    @font-face {
+        font-family: myFonth2;
+        src: url('Awesome.ttf');
+    }
+
+    body {
+        background-color: #ffe5e7;
+        margin: 0;
+        font-family: Arial, sans-serif;
+    }
+
+	.topnav {
+    display: flex;
+    justify-content: right;
+	font-family: myFonth2;
+    align-items: center;
+    background-color: #B1A2CA;
+    padding: 15px 50px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+     .topnav a, .dropdown .dropbtn {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    transition: 0.3s;
+    font-weight: bold;
+    letter-spacing: 1px;
+    }
+
+     .topnav a:hover, .dropdown:hover .dropbtn {
+    background-color: #ffe5e7;
+    color: #5a3e5f;
+    border-radius: 5px;
+    transform: translateY(-2px);
+}
+	.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    min-width: 150px;
+    box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius: 5px;
+    overflow: hidden;
+}
+	.dropdown:hover .dropdown-content {
+    display: block;
+    animation: fadeIn 0.3s ease;
+}
+	@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+	.dropdown-content a {
+    color: #573718;
+    padding: 10px 15px;
+    display: block;
+    text-decoration: none;
+}
+	.dropdown-content a:hover {
+    background-color: #ffe5e7;
+}
+	.genre-header {
+        text-align: center;
+        font-size: 36px;
+        font-family: 'Georgia', serif;
+        color: #573718;
+        background-color: #d2e0d3;
+        padding: 20px;
+        margin: 20px auto;
+        width: 40%;
+        border-radius: 10px;
+        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    }
+		
+
+    /* Table Styling */
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        text-align: center;
+		
+    }
+	
+    th, td {
+        border: 2px solid white;
+        padding: 15px;
+        background-color: #ffe5e7;
+    }
+	th h1 {
+    font-family: 'Aptos', Times, serif;
+	}
+    td img {
+        width: 250px;
+        height: 300px;
+        margin: 5px;
+		
+    }
+
+    /* Add to Cart Button */
+    .addToCartBtn {
+        background-color: #FA9EBC;
+        color: black;
+        padding: 10px 15px;
+        font-size: 20px;
+        font-weight: bold;
+        border: none;
+        cursor: pointer;
+        border-radius: 4px;
+        transition: 0.3s;
+    }
+
+    .addToCartBtn:hover {
+        background-color: #FF5899;
+        color: white;
+    }
+
+    /* Logo Styling */
+    .logo-container {
+        text-align: center;
+        background-color: #ffe5e7;
+        padding: 0px;
+    }
+
+    .logo-container img {
+        width: 200px;
+        height: 200px;
+    }
+
+    /* Heading */
+    h1 {
+        font-family: myFont, Arial, sans-serif;
+    }
+
+    /* Footer */
+    footer {
+        background-color: #d2e0d3;
+        text-align: center;
+        padding: 15px;
+        margin-top: 30px;
+    }
+
+    #About_Us h3 {
+		background-color: #d2e0d3;
+    }
+
+    #About_Us p {
+        font-size: 16px;
+        max-width: 80%;
+        margin: auto;
+    }
+</style>
