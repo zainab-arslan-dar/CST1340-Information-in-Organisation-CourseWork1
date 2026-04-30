@@ -41,7 +41,7 @@ This was a group project developed collaboratively. Responsibilities included fr
 # Setup Instructions
 
 1. Clone the repository
-2. git clone https://github.com/your-username/bookshop-website.git
+2. git clone https://github.com/zainab-arslan-dar/CST1340-Information-in-Organisation-CourseWork1.git
 3. Open the project folder
 4. Launch index.html in a web browser
 
